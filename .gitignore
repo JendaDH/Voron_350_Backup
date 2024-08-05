@@ -1,3 +1,4 @@
 saved_variables.cfg
+printer-*.cfg
 adxl_results/belts/*.csv
 adxl_results/vibrations/*tar.gz
